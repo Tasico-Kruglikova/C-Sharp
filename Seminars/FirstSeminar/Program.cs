@@ -83,11 +83,11 @@ quat = num * num;
 Console.Write("Вот и квадрат вашего чила: " + quat);
 */
 
-/*
+
 // Напишите программу, которая на вход принимает одно число (N), 
 //а на выходе показывает все целые числа в промежутке от -N до N.
 
-
+/*
 Console.Write("Input a number: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
