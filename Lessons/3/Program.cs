@@ -5,9 +5,15 @@ void Method1()
     Console.WriteLine("Автор: Кругликова Анастасия");
 }
 Method1();
+*/
 
 
 
+
+
+
+
+/*
 //Вид 2
 void Method2(string msg)
 {
@@ -27,10 +33,18 @@ void Method21(string msg, int count)
 }
 Method21("Текст", 4);
 Method21(count: 4, msg: "новый текст");
+*/
 
 
 
 
+
+
+
+
+
+
+/*
 //Вид 3
 int Method3()
 {
@@ -39,12 +53,16 @@ int Method3()
 
 int year = Method3();
 Console.WriteLine(year);
+*/
 
 
 
 
 
 
+
+
+/*
 //Вид 4
 
 string Method4 (int count, string text)
@@ -62,10 +80,18 @@ string Method4 (int count, string text)
 }
 string res = Method4(10, "жопа");
 Console.WriteLine(res);
+*/
 
 
 
 
+
+
+
+
+
+
+/*
 //С циклом for
 string Method4 (int count, string text)
 {
@@ -89,11 +115,17 @@ for(int i = 2; i <= 10; i++)
     }
     Console.WriteLine();
 }
+*/
 
 
 
 
 
+
+
+
+
+/*
 //===== В тексте пробелы заменить черточками
 //маленькие буквы "к" большими "К"
 //а большие "С" маленькими "с".
@@ -139,6 +171,10 @@ Console.WriteLine();
 
 
 
+
+
+
+/*
 //Упорядочивание массива
 
 int[] arr = {1, 5, 4, 3, 2, 6, 7, 1, 1};
@@ -179,3 +215,4 @@ SelectionSort(arr);
 
 
 PrintArray(arr);
+*/
